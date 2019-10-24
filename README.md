@@ -181,15 +181,19 @@ Google Youtube API Quota exceed error - 이 문제에 대한 해결방법은 일
 
 
 ## 크레딧 (Credit)
-> 계발자 김기태
-계발자 하혜성
+> 계발자 김기태, 하혜성
 
 이미지 및 아이콘 출처
 https://www.freepik.com/
+
 https://icons8.com/
+
 http://overseas.mofa.go.kr/sg-ko/index.do
+
 http://overseas.mofa.go.kr/us-ko/index.do
+
 http://overseas.mofa.go.kr/ca-ko/index.do
+
 
 ## 업데이트 정보 (Change Log)
 
