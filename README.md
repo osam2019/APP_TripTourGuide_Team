@@ -63,7 +63,7 @@ Android 9.0 이상
 
 
 
-##사용법 (Getting Started)
+## 사용법 (Getting Started)
 
 <img src="./img/main.jpg" width="350">
 
@@ -129,6 +129,9 @@ Android 9.0 이상
 - TripServiceProvider - 앱이 제공하는 여러 서비스들의 모체가 되는 Activity입니다
 - TripSettings - 새로운 여행을 만들시 각각의 도시를 생성하는 객체입니다
 - TripUtils - 앱에서 필요한 몇가지 유틸 기능들을 제공합니다.
+
+### Dataflow
+<img src="./img/Datagram.png" width="700">
 
 
 ## 저작권 및 사용권 정보 (Copyright / End User License)
