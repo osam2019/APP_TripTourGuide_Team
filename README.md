@@ -133,6 +133,8 @@ Android 9.0 이상
 ### Dataflow
 <img src="./img/Datagram.png" width="700">
 
+Last.fm API 와 YouTube API v3를 통해 국가별 음악관련 데이터를 실시간으로 획득합니다. 준비물 관련 데이터는 내부 SQLite 데이터 베이스에 저장된 정보를 활용하여 여행기록을 저장하고 어떤 물건들을 유저가 준비하였고 준비하지 않았는지 판단하게 됩니다.
+
 
 ## 저작권 및 사용권 정보 (Copyright / End User License)
 
