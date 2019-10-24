@@ -1,0 +1,22 @@
+[
+  {
+    "name" : "common",
+    "prepareList" : ["passport", "flight e-ticket", "eTa", "voucher", "CA dollar", "Credit Card", "battery charger", "11V adapter", "camera&charger", "selfie stick", "earphone", "underwear", "socks", "t-shirt", "sunglasses", "sleepwear", "toothbrush", "toothpaste", "shampoo", "body-wash", "razor", "first-aid medicine"]
+  },
+  {
+    "name" : "city",
+    "prepareList" : ["cardigan", "long trousers"]
+  },
+  {
+    "name" : "swimming",
+    "prepareList" : ["swimsuit", "swimming goggles", "sun cream", "cap"]
+  },
+  {
+    "name" : "fishing",
+    "prepareList" : ["fishing rod", "landing net"]
+  },
+  {
+    "name" : "snowboarding",
+    "prepareList" : ["snowboard", "landing net", "snowboardwear"]
+  }
+]

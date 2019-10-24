@@ -1,0 +1,26 @@
+[
+  {
+    "name" : "Vancouver",
+    "adress" : "1090 Georgia Street West 1600, Vancouver, BC V6E 3V7" ,
+    "telephone" : "(604)681-9581",
+    "fax" : "(604)681-4864",
+    "homepage" : " http://overseas.mofa.go.kr/ca-vancouver-ko/index.do",
+    "jurisdiction" : ["British Columbia BC", "Alberta", "Saskatchewan", "Yukon and Northwest Territories"]
+  },
+  {
+    "name" : "Toronto",
+    "adress" : "555 Avenue Rd, Toronto, Ontario, M4V 2J7",
+    "telephone" : "(416)920-3809",
+    "fax" : "(416)924-7305",
+    "homepage" : " http://overseas.mofa.go.kr/ca-toronto-ko/index.do",
+    "jurisdiction" : ["Ontario(Except Ottawa)", "Manitoba"]
+  },
+  {
+    "name" : "Montreal",
+    "adress" : "1250 René-Lévesque Boulevard West, Suite 3600, Montreal H3B 4W8",
+    "telephone" : "(514)845-2555",
+    "fax" : "(514)845-1119",
+    "homepage" : "http://overseas.mofa.go.kr/ca-montreal-ko/index.do",
+    "jurisdiction" : ["Quebec", "New Brunswick", "Nova Scotia", "PEI", "Newfoundland"]
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "name" : "common",
+    "prepareList" : ["battery charger", "body-wash", "camera&charger", "credit card", "earphone", "first-aid medicine", "flight e-ticket", "passport", "razor", "selfie stick", "shampoo", "socks", "sunglasses", "sleepwear", "t-shirt", "toothbrush", "toothpaste", "underwear", "US dollar", "visa", "voucher", "11V adapter"]
+  },
+  {
+    "name" : "rainy",
+    "prepareList" : ["umbrella"]
+  },
+  {
+    "name" : "city",
+    "prepareList" : ["cardigan", "long trousers"]
+  },
+  {
+    "name" : "swimming",
+    "prepareList" : ["swimsuit", "swimming goggles", "sun cream", "cap"]
+  },
+  {
+    "name" : "cruise",
+    "prepareList" : ["long trousers", "cardigan"]
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "name" : "Atlanta",
+    "adress" : "229 Peachtree Street Suite 2100, International Tower Atlanta, GA 30303" ,
+    "telephone" : "(404)522-1611",
+    "fax" : "(404)521-3169",
+    "homepage" : "http://overseas.mofa.go.kr/us-atlanta-ko/index.do",
+    "jurisdiction" : ["Alabama", "Florida", "Georgia", "North Carolina", "Puerto Rico", "South Carolina", "Tennessee", "Virgin Islands"]
+  },
+  {
+    "name" : "Boston",
+    "adress" : "One Gateway Center, Suite 251. 300 Washington Street, Newton, MA 02458",
+    "telephone" : "(617)641-2830",
+    "fax" : "(617)641-2831",
+    "homepage" : "http://overseas.mofa.go.kr/us-boston-ko/index.do",
+    "jurisdiction" : ["New Hampshire", "Rhode Island",  "Maine", "Massachusetts", "Vermont"]
+  },
+  {
+    "name" : "Chicago",
+    "adress" : "NBC Tower Suite 2700, 455 North City front Plaza Drive, Chicago,, Illinois 60611",
+    "telephone" : "(312)822-9485",
+    "fax" : "(312)822-9849",
+    "homepage" : "http://overseas.mofa.go.kr/us-chicago-ko/index.do",
+    "jurisdiction" : ["Illinois", "Indiana", "Iowa", "Kansas", "Kentucky", "Michigan", "Minnesota", "Missouri", "Nebraska", "North Dakota", "Ohio", "South Dakota", "Wisconsin"]
+  },
+  {
+    "name" : "Houston",
+    "adress" : "1990 Post Oak Blvd, #1250, Houston, TX 77056",
+    "telephone" : "(713)961-0186",
+    "fax" : "(713)961-3340",
+    "homepage" : "http://overseas.mofa.go.kr/us-houston-ko/index.do",
+    "jurisdiction" : ["Arkansas", "Louisiana", "Oklahoma",  "Mississippi", "Texas"]
+  },
+  {
+    "name" : "Los Angeles",
+    "adress" : "3243 Wilshire Blvd, Los Angeles, CA 90010",
+    "telephone" : "(213)385-9300",
+    "fax" : "(213)385-1849",
+    "homepage" : "http://overseas.mofa.go.kr/us-losangeles-ko/index.do",
+    "jurisdiction" : ["Arizona", "Nevada", "New Mexico", "South California"]
+  },
+  {
+    "name" : "New York",
+    "adress" : "335 E. 45th St.(4th Fl.) New York, NY 10017",
+    "telephone" : "(646)674-6000",
+    "fax" : "(646)674-6023",
+    "homepage" : "http://overseas.mofa.go.kr/us-newyork-ko/index.do",
+    "jurisdiction" : ["Connecticut", "Delaware", "New Jersey", "New York", "Pennsylvania"]
+  },
+  {
+    "name" : "San Francisco",
+    "adress" : "3500 Clay Street, San Francisco, CA 94118",
+    "telephone" : "(415)921-2251",
+    "fax" : "(415)-921-5946",
+    "homepage" : "http://overseas.mofa.go.kr/us-sanfrancisco-ko/index.do",
+    "jurisdiction" : ["Colorado", "Northern California", "Utah", "Wyoming"]
+  },
+  {
+    "name" : "Seattle",
+    "adress" : "2033 6th Avenue #1125, Seattle, WA 98121",
+    "telephone" : "(206)441-1011",
+    "fax" : "(206)441-7912",
+    "homepage" : "http://overseas.mofa.go.kr/us-seattle-ko/index.do",
+    "jurisdiction" : ["Idaho", "Montana", "Oregon", "Washington"]
+  },
+  {
+    "name" : "Washington",
+    "adress" : "2320 Massachusetts Ave, N.W. Washington D.C. 20008",
+    "telephone" : "(202)939-5653",
+    "fax" : "(202)342-1597",
+    "homepage" : "http://overseas.mofa.go.kr/us-ko/index.do",
+    "jurisdiction" : ["Washington D.C.", "Maryland", "Virginia", "West Virginia"]
+  },
+  {
+    "name" : "Dallas",
+    "adress" : "14001 Dallas Parkway Suite 450 Dallas, TX 75240",
+    "telephone" : "(972)701-0180",
+    "fax" : "(972)701-0183",
+    "homepage" : "http://overseas.mofa.go.kr/us-dallas-ko/index.do",
+    "jurisdiction" : ["Texas DFW (Dallas, Fort Worth)"]
+  }
+]

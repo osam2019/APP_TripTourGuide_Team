@@ -1,0 +1,82 @@
+[
+  {
+    "name":"common",
+    "prepareList":[
+      "passport",
+      "flight e-ticket",
+      "visa",
+      "voucher",
+      "SG dollar",
+      "Credit Card",
+      "battery charger",
+      "11V adapter",
+      "camera&charger",
+      "selfie stick",
+      "earphone",
+      "underwear",
+      "socks",
+      "t-shirt",
+      "sunglasses",
+      "sleepwear",
+      "toothbrush",
+      "toothpaste",
+      "shampoo",
+      "body-wash",
+      "razor",
+      "first-aid medicine"
+    ]
+  },
+  {
+    "name":"hiking",
+    "prepareList":[
+      "towel",
+      "water bottle",
+      "hat",
+      "sneakers",
+      "mosquitocide"
+    ]
+  },
+  {
+    "name":"swimming",
+    "prepareList":[
+      "swimsuit",
+      "swimming goggles",
+      "sun cream",
+      "cap"
+    ]
+  },
+  {
+    "name":"fishing",
+    "prepareList":[
+      "fishing rod",
+      "landing net"
+    ]
+  },
+  {
+    "name":"scooter",
+    "prepareList":[
+
+    ]
+  },
+  {
+    "name":"biking",
+    "prepareList":[
+      "bike",
+      "helmet",
+      "guard"
+    ]
+  },
+  {
+    "name":"golf",
+    "prepareList":[
+      "golf wear",
+      "golf club"
+    ]
+  },
+  {
+    "name":"snorkel",
+    "prepareList":[
+      "jumper"
+    ]
+  }
+]

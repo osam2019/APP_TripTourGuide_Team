@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.CodeFalling:RecyclerViewSwipeDismiss:v1.1.2@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/1473a607b4442c61ae975e7273910d4a/jetified-RecyclerViewSwipeDismiss-v1.1.2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/1473a607b4442c61ae975e7273910d4a/jetified-RecyclerViewSwipeDismiss-v1.1.2/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

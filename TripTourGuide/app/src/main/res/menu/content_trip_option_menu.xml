@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/pre_trip"
+        android:icon="@mipmap/airplane_depart48"
+        android:title="preTrip"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/in_trip"
+        android:checkable="false"
+        android:icon="@mipmap/airplane_mode52"
+        android:title="inTrip"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/post_trip"
+        android:icon="@mipmap/airplane_land48"
+        android:title="postTrip"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/country_consulate"
+        android:icon="@android:drawable/ic_menu_info_details"
+        android:title="consulate_info"
+        app:showAsAction="always" />
+</menu>

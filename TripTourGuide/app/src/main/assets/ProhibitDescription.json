@@ -1,0 +1,66 @@
+[
+  {
+    "name":"alcohol",
+    "description":"해당 국가에서는 술 반입을 금하고 있습니다."
+  },
+  {
+    "name":"artifact",
+    "description":"해당 국가에서는 문화적 가치가 있는 조형물이나 공예품의 반입을 금하고 있습니다."
+  },
+  {
+    "name":"army",
+    "description":"해당 국가에서는 군사적 정보가 포함된 문서나 장비의 반입을 금하고 있습니다."
+  },
+  {
+    "name":"pets",
+    "description":"해당 국가에서는 각 주마다 애완동물에 관한 규정이 다르므로 CBP brochure Pets and Wildlife를 통한 확인이 필요합니다."
+  },
+  {
+    "name":"drug",
+    "description":"해당 국가에서는 각종 마약 및 마약 용품의 반입을 금하고 있습니다."
+  },
+  {
+    "name":"soil",
+    "description":"해당 국가에서는 외부의 토양 반입을 금하고 있습니다."
+  },
+  {
+    "name":"seed",
+    "description":"해당 국가에서는 종자가 될 수 있는 모든 식물, 씨앗, 견과류, 콩류 등의 반입을 금지하고 있습니다."
+  },
+  {
+    "name":"pill",
+    "description":"해당 국가에서는 의사의 처방전에 명시된 정확한 양 이외의 약품 반입을 금지하고 있습니다."
+  },
+  {
+    "name":"gun",
+    "description":"해당 국가에서는 총기 반입을 금하고 있으며 또한 총기 모양의 물건의 반입을 규제하고 있습니다."
+  },
+  {
+    "name":"wildlife",
+    "description":"해당 국가에서는 야생동물의 반입을 금하고 있습니다."
+  },
+  {
+    "name":"paint",
+    "description":"해당 국가에서는 페인트(페인트 시너, 스프레이 페인트 캔 등 포함)의 반입을 금하고 있습니다."
+  },
+  {
+    "name":"printer",
+    "description":"해당 국가에서는 프린터 및 토너 카트리지의 반입을 금하고 있습니다."
+  },
+  {
+    "name":"cigarettes",
+    "description":"해당 국가에서는 'SINGAPORE DUTY NOT PAID'라고 표시된 담배의 반입을 금하고 있습니다."
+  },
+  {
+    "name":"gum",
+    "description":"해당 국가에서는 모든 종류의 껌의 반입을 금하고 있습니다."
+  },
+  {
+    "name":"firework",
+    "description":"해당 국가에서는 모든 종류의 폭죽의 반입을 금하고 있습니다."
+  },
+  {
+    "name":"porno",
+    "description":"해당 국가에서는 음란물, 간행물, 비디오 테이프, 디스크, 소프트웨어의 반입을 금하고 있습니다."
+  }
+]

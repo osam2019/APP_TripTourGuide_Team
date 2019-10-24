@@ -1,0 +1,14 @@
+[
+  {
+    "name" : "United States",
+    "prohibited" : ["alcohol", "artifact", "army", "pets", "drug", "soil", "seed", "pill"]
+  },
+  {
+    "name" : "Canada",
+    "prohibited" : ["gun", "drug", "wildlife", "soil", "seed", "paint", "printer"]
+  },
+  {
+    "name" : "Singapore",
+    "prohibited" : ["gum", "cigarettes", "alcohol", "pill", "wildlife", "firework", "porno"]
+  }
+]
