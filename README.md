@@ -29,9 +29,9 @@ TripTourGuide는
 
 ## 컴퓨터 구성 / 필수 조건 안내 (Prerequisites)
 
-최소 SDK 버전 26
-Android OS
-Android 9.0 이상
+- 최소 SDK 버전 26
+- Android OS
+- Android 9.0 이상
 
 
 
